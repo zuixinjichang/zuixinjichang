@@ -16,7 +16,7 @@
 
 ### 🔥 热门仓库一览（最新机场 & 工具合集）
 
-- **[Clash-SSR-Proxy](https://github.com/jichangvps/Clash-SSR-Proxy)**  
+- **[best-jichang](https://github.com/jichangvps/best-jichang)**  
   最新Clash、SSR、v2ray节点机场深度评测合集！红杏云、Overwall、杜卡迪、魔戒、布丁猫、袋鼠加速、尔湾云、精灵学院、渔云、FlyBit、M78星云、ssrdog、XSUS、山水云、泰山Net、万达云、稳连云、扬帆云、Biubiu、奈云等全覆盖。官网地址+价格对比+优惠码+推荐排行，一站式选机场！
 
 - **[dingyue-tools](https://github.com/jichangvps/dingyue-tools)**  
