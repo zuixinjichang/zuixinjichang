@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>专注科学上网 & 云资源分享的开源整理者</strong><br>
-  收集最新机场节点订阅、Clash/SSR/v2ray工具、VPS选购指南、GPU算力平台深度评测，帮助大家高效、安全地上网和搞AI/开发！
+  收集最新机场节点订阅、Clash/SSR/v2ray工具，帮助大家高效、安全地上网和搞AI/开发！
 </p>
 
 <p align="center">
