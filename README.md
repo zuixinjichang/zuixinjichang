@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=最新机场推荐&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=40" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=2026最新机场推荐&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=40" alt="header" />
 </div>
 
 <h1 align="center">Hi 👋</h1>
