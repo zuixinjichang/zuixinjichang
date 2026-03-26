@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=jichangvps&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=40" alt="header" />
 </div>
 
-<h1 align="center">Hi 👋, 我是 jichangvps</h1>
+<h1 align="center">Hi 👋</h1>
 
 <p align="center">
   <strong>专注科学上网 & 云资源分享的开源整理者</strong><br>
